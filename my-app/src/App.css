@@ -1,10 +1,7 @@
-.flex-container {
-  display: flex;
-}
 
 .info-box {
       position: absolute;
-      width: 15%;
+      width: 15vw;
       height: 50vh;
       background-color: #9e8141;
       padding: 1em;
@@ -14,6 +11,10 @@
 }
 .info-box div {
   margin-bottom: 2em;
+}
+a {
+  color: black;
+  cursor: default;
 }
 
 /* @keyframes fade {
